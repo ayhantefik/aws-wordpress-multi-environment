@@ -3,11 +3,11 @@ Infrastructure as Code project deploying production and development WordPress en
 
 # This project demonstrates practical use of:
 
-## AWS Management Console
+### AWS Management Console
 
 Used to manage, monitor, and deploy AWS services.
 
-# AWS CloudFormation
+### AWS CloudFormation
 
 Models and provisions AWS infrastructure as code, enabling repeatable and automated deployments.
 
