@@ -1,2 +1,25 @@
 # aws-wordpress-multi-environment
 Infrastructure as Code project deploying production and development WordPress environments on AWS using CloudFormation, Auto Scaling, monitoring, and scheduled cost optimization.
+
+This project demonstrates practical use of:
+
+# AWS Management Console
+
+Used to manage, monitor, and deploy AWS services.
+
+# AWS CloudFormation
+
+Models and provisions AWS infrastructure as code, enabling repeatable and automated deployments.
+
+# Amazon EC2
+
+Hosts the WordPress application with customizable instance types.
+
+# Amazon Machine Image (AMI)
+
+Used to create reusable images of the WordPress instance for scaling and rapid deployment.
+
+# Auto Scaling
+
+Ensures additional instances can be launched automatically when needed.
+
