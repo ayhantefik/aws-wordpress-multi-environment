@@ -34,4 +34,4 @@ Ensures additional instances can be launched automatically when needed.
 4. Configure the new WordPress instance to shut down automatically
 
 
-[VIEW the PDF](https://github.com/ayhantefik/aws-wordpress-multi-environment/blob/main/aws-wordpress-multi-enviroment-Ayhan-Tefik.pdf)
+<iframe src="https://github.com/ayhantefik/aws-wordpress-multi-environment/blob/main/aws-wordpress-multi-enviroment-Ayhan-Tefik.pdf" width="100%" height="600px"></iframe>
