@@ -11,15 +11,26 @@ Used to manage, monitor, and deploy AWS services.
 
 Models and provisions AWS infrastructure as code, enabling repeatable and automated deployments.
 
-# Amazon EC2
+### Amazon EC2
 
 Hosts the WordPress application with customizable instance types.
 
-# Amazon Machine Image (AMI)
+### Amazon Machine Image (AMI)
 
 Used to create reusable images of the WordPress instance for scaling and rapid deployment.
 
-# Auto Scaling
+### Auto Scaling
 
 Ensures additional instances can be launched automatically when needed.
+
+## Implementation steps:
+
+1. Create a CloudFormation stack
+
+2. Create an AMI of the WordPress instance
+
+3. Configure Auto Scaling to launch a new WordPress instance
+
+4. Configure the new WordPress instance to shut down automatically
+
 
